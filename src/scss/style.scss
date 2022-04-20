@@ -1,0 +1,8 @@
+$bgColor:pink;
+h1 {
+    background-color: green;
+    width: 50vw;
+    &:hover {
+        color:skyblue;
+    }
+}
